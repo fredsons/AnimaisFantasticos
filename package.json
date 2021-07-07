@@ -19,5 +19,16 @@
   "dependencies": {
     "@babel/polyfill": "^7.0.0",
     "whatwg-fetch": "^2.0.4"
-  }
+  },
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaogabrieldev/AnimaisFantasticos.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/joaogabrieldev/AnimaisFantasticos/issues"
+  },
+  "homepage": "https://github.com/joaogabrieldev/AnimaisFantasticos#readme",
+  "description": ""
 }
